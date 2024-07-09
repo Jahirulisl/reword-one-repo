@@ -25,7 +25,7 @@
     height: 600px;
 
 }
-.banner-content p, h1{
+.banner-content {
  color: white;
  
 }
@@ -44,5 +44,10 @@
     border: 2px solid red;
     margin: 0 auto;
     margin-top: 90px;
-
+}
+.secound-section-continer{
+ 
+}
+.secound-section-contant{
+    
 }
